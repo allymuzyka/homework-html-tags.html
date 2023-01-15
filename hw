@@ -1,0 +1,37 @@
+h1> Main Heading</h1>
+<h2> Sub Heading</h2> 
+<h3>Sub Sub Heading</h3>
+<h3>Sub Sub Heading h1,h2,h3,h4,h5,h6: Each of these are headings by which the font gets smaller for each one as you go from h1→h6 they become “less important” (smaller in font)
+</h3>
+<body> Body Text </body>
+<p> Paragraph</p>
+<p> Paragraph: Defines a paragraph of text </p>
+<ul>
+
+<li> First </li>
+<li> Second </li>
+<li> First ul: represents an unordered list of items 
+</li>
+<li> Second ul: typically rendered as a bulleted list.</li>
+</ul>
+
+<ol> 
+<li> First </li>
+<li> Second </li>
+<li> First li: represents an ordered list of items.</li>
+<li> Second li: typically rendered as a numbered list</li>
+
+</ol>
+
+<a href="https://www.google.com/docs/about">Visit Google</a>
+<a href="https://www.google.com/docs/about">Visit Google: This attribute specifies the URL of the page the link goes to. </a>
+
+<img src="https://www.jquery-az.com/html/images/banana.jpg" title="Title of image" alt="alt text here"/>
+<img src="https://www.jquery-az.com/html/images/banana.jpg" title="Title of image" alt="used to embed an image"/>
+
+
+<strong> BOLD </strong>
+<strong> BOLD: Bolds the text for importance  </strong>
+
+<p>
+     Hi &emsp; &nbsp; I have created spaces in the text. 
